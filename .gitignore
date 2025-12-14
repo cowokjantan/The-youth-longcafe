@@ -1,0 +1,6 @@
+node_modules/
+.next/
+.env
+.DS_Store
+# If you host ffmpeg-core.js externally, do not commit local copy:
+# public/ffmpeg-core.js
