@@ -1,0 +1,2 @@
+# Uncomment if you use Git LFS for ffmpeg-core.js
+# public/ffmpeg-core.js filter=lfs diff=lfs merge=lfs -text
