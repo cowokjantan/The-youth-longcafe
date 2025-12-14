@@ -1,0 +1,22 @@
+{
+  "name": "article-to-video-js",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "fetch-ffmpeg-core:unix": "bash ./scripts/fetch-ffmpeg-core.sh",
+    "fetch-ffmpeg-core:ps": "powershell -File ./scripts/fetch-ffmpeg-core.ps1"
+  },
+  "dependencies": {
+    "@ffmpeg/ffmpeg": "^0.11.6",
+    "next": "13.4.12",
+    "node-html-parser": "^6.1.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
