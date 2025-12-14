@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0ea5e9"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+  <rect width="1280" height="720" fill="url(#g)"/>
+  <g fill="#fff" font-family="Inter, Arial, sans-serif">
+    <text x="70" y="140" font-size="40" font-weight="700">Article → Short Video</text>
+    <text x="70" y="240" font-size="28" font-weight="600">Narration ready for social</text>
+    <text x="70" y="300" font-size="18" fill="#ffffffcc">The-youth-longcafe - Produced with OpenAI + ElevenLabs · FFmpeg.WASM</text>
+  </g>
+</svg>
